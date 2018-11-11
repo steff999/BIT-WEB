@@ -1,0 +1,40 @@
+body {
+  background-image: url("../img/bg.jpg");
+  background-size: contain;
+
+}
+
+img {
+  width: 130px;
+  position: absolute;
+  bottom: 145px;
+}
+
+html{
+
+height: 100%;
+
+}
+
+.visible{
+  visibility: visible;
+}
+.hidden{
+  visibility: hidden;
+}
+.runningMan{
+  visibility: hidden;
+}
+
+.bottom{
+
+bottom: 260px;
+
+
+}
+
+audio{
+
+visibility: hidden;
+
+}
